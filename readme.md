@@ -39,7 +39,7 @@ This application ensures secure storage and management of personal details using
   ```bash
   pip install tkinter cryptography twilio sqlite3
   git clone https://github.com/your-username/your-repo-name.git
-  cd your-repo-name ```bash
+  cd your-repo-name 
   
 ## 🚀 Usage
 ### ** Launch the Application **
