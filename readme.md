@@ -33,7 +33,7 @@ This application ensures secure storage and management of personal details using
 - Required libraries:
   ```bash
   pip install tkinter cryptography twilio sqlite3
-  ```bash
+  
 ### Clone the Repository
 - ** Download or clone the repository:**
   ```bash
