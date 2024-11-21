@@ -38,13 +38,13 @@ This application ensures secure storage and management of personal details using
 - ** Download or clone the repository:**
   ```bash
   pip install tkinter cryptography twilio sqlite3
-  git clone https://github.com/your-username/your-repo-name.git
-  cd your-repo-name 
+  git clone https://github.com/samcm22/SMS_locker_AUTO_del.git
+  cd SMS_locker_AUTO_del 
   
 ## 🚀 Usage
 ### ** Launch the Application **
 **Run the script using Python:**
-                 **👉 python your_script_name.py**
+                 **👉 python paslocsmsdel.py**
 Access with Password
 Use the default password: **password123** (or customize it in the script).
 🔐-------------------💀---------------------🔐
